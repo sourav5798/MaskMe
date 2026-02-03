@@ -409,24 +409,6 @@ Potential features for future development:
 
 ---
 
-## 📄 License
-
-[Add your license here]
-
----
-
-## 👥 Contributing
-
-[Add contribution guidelines here]
-
----
-
-## 📞 Support
-
-For issues, questions, or contributions, please [open an issue](link-to-issues) or [contact the maintainers](link-to-contact).
-
----
-
 ## 🎯 Project Status
 
 ✅ **Production Ready** - All core features implemented and tested
